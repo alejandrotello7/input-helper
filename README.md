@@ -1,7 +1,7 @@
 # input-helper
 
 ## Simple JAVA input util class. 
-Class to add in your utility package to call for inputs.
+Add this class in your utility package to call for inputs.
 
 ### Class
 Add this class
