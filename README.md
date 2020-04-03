@@ -3,8 +3,7 @@
 ## Simple JAVA input util class. 
 Add this class in your utility package to call for inputs.
 
-### To get input from users just call
-
+## To get input from users just call
 InputHelper.getInput("Your prompt message") to request Strings. 
 
 InputHelper.getIntegerInput("Your prompt message") to request Integers.
@@ -12,8 +11,8 @@ InputHelper.getIntegerInput("Your prompt message") to request Integers.
 InputHelper.getDoubleInput("Your prompt message") to request Doubles.
 
 
-### Class
-Add this class
+## Class
+Add this class to your project
 ```
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
