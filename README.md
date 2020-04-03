@@ -4,17 +4,17 @@
 Add this class in your utility package to call for inputs.
 
 ## To get input from users just call
-InputHelper.getInput("Your prompt message") to request Strings. 
+* InputHelper.getInput("Your prompt message") to **request Strings.** 
 
-InputHelper.getIntegerInput("Your prompt message") to request Integers.
+* InputHelper.getIntegerInput("Your prompt message") to **request Integers.**
 
-InputHelper.getDoubleInput("Your prompt message") to request Doubles.
+* InputHelper.getDoubleInput("Your prompt message") to **request Doubles.**
 
-InputHelper.getFloatInput("Your prompt message") to request Float.
+* InputHelper.getFloatInput("Your prompt message") to **request Float.**
 
-InputHelper.getLongInput("Your prompt message") to request Long.
+* InputHelper.getLongInput("Your prompt message") to **request Long.**
 
-InputHelper.getShortInput("Your prompt message") to request Short.
+* InputHelper.getShortInput("Your prompt message") to **request Short.**
 
 
 ## Install
