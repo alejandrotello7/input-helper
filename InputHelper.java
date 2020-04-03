@@ -25,4 +25,20 @@ public class InputHelper {
 		String input = getInput(prompt);
 		return Integer.parseInt(input);	
 	}	
+	
+	public static float getFloatInput(String prompt) throws NumberFormatException {
+		String input = getInput(prompt);
+		return Float.parseFloat(input);	
+	}	
+	
+	public static long getLongInput(String prompt) throws NumberFormatException {
+		String input = getInput(prompt);
+		return Long.parseLong(input);	
+	}	
+	
+	public static short getShortInput(String prompt) throws NumberFormatException {
+		String input = getInput(prompt);
+		return Short.parseShort(input);	
+	}	
 }
+
