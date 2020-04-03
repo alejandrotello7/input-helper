@@ -1,6 +1,6 @@
 # input-helper
 
-##Simple JAVA input util class. 
+## Simple JAVA input util class. 
 
 Just call:
 InputHelper.getInput("Your prompt message") to request Strings. 
